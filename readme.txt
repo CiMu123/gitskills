@@ -7,3 +7,4 @@ git has a mutable index called stage
 D
 git tracks changed
 I change again:
+change change change

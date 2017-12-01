@@ -5,3 +5,4 @@ commit in master
 =======
 a new branch in dev
 >>>>>>> dev
+git is a good tool
